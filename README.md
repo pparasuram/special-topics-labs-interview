@@ -44,11 +44,12 @@ Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The
 * _Prakash_: Hmmm! Tough to select a member, most talented = Paul McCartney, but he started claiming some songs to be his in his 40's, and similar bragging, unbecoming of the spirit of the original group, I would say George Harrison stayed most true.  
 
 * _Favorite Beatles Songs_:  
-   ** Hey Jude
-   ** A day in the life
-   ** Ob-La-Di Ob-La-Da
-   ** Get Back
-   ** Lucy in the Sky with Diamonds
+   + Hey Jude
+   + A day in the life
+   + Ob-La-Di Ob-La-Da
+   + Get Back
+   + Lucy in the Sky with Diamonds  
+   
 Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem).  
 
 * _Prakash_: No, sorry. I think I may not have the empathy and patience to take care of another being.  
