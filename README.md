@@ -31,30 +31,28 @@ Q2: What is the answer?
 ## Interview
 Hello!  In the rush that is the start of the term, I really haven't had a chance to chat with many of you.  So would you do me the favor of helping me get to know a bit about you by answering the following?  Please avoid one word answers... I want to learn about you!
 
-Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?
-<span style="color:blue">
-* _Prakash_: I started off as a programmmer and took a detour into networking, I am a Wireless Network Engineer now, but so much excitement has happened in the programming world, I wish to get back in the know, and possibly go back to programming.
-</span>
-Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?
-<span style="color:blue">
-* _Prakash_: I used to be a merchant marine ship engineer and rose to the rank of a 3rd engineer, so I have traveled a bit, except that most times the stay is short, Greece seems to be my favorite destination, based on what I have read so far.
-</span>
-Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.
-<span style="color:blue">
-* _Prakash_: Hmmm! Tough to select a member, most talented = Paul McCartney, but he started claiming some songs to be his in his 40's, and similar bragging, unbecoming of the spirit of the original group, I would say George Harrison stayed most true.
-</span>
-<P style="color:blue">
-* Favorite Beatles Songs:
-+ Hey Jude
-+ A day in the life
-+ *Ob-La-Di Ob-La-Da
-+ *Get Back
-+ *Lucy in the Sky with Diamonds
-</P>
-Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem). 
-<span style="color:blue">
-* _Prakash_: No, sorry. I think I may not have the empathy and patience to take care of another being.
-</span>
+Q1: So you're finishing up your time in this CSCC program.  Why did you decide to embark on this journey?  
+
+* _Prakash_: I started off as a programmmer and took a detour into networking, I am a Wireless Network Engineer now, but so much excitement has happened in the programming world, I wish to get back in the know, and possibly go back to programming.  
+
+Q2: I _love_ to travel.  Tell me a bit about your favorite travel destination so far.  What's on your travel bucket list?  
+
+* _Prakash_: I used to be a merchant marine ship engineer and rose to the rank of a 3rd engineer, so I have traveled a bit, except that most times the stay is short, Greece seems to be my favorite destination, based on what I have read so far.  
+
+Q3: Name your favorite member of [The Beatles](https://en.wikipedia.org/wiki/The_Beatles), and your favorite Beatles song.  You do know at least one Beatles song, right?  If you are a Beatles fan, feel free to give me your top 5 or so.  
+
+* _Prakash_: Hmmm! Tough to select a member, most talented = Paul McCartney, but he started claiming some songs to be his in his 40's, and similar bragging, unbecoming of the spirit of the original group, I would say George Harrison stayed most true.  
+
+* _Favorite Beatles Songs_:  
+   ** Hey Jude
+   ** A day in the life
+   ** Ob-La-Di Ob-La-Da
+   ** Get Back
+   ** Lucy in the Sky with Diamonds
+Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jpeg?raw) wants to know... (he's not as smart as that picture makes him seem).  
+
+* _Prakash_: No, sorry. I think I may not have the empathy and patience to take care of another being.  
+
 ## Submitting Your Work
 Once I have merged your pull request into my repo, please submit your repo along with a screenshot of your pull request in Blackboard.
 
