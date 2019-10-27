@@ -25,4 +25,4 @@ Q3: It will be nice to know your favorite Beatles, and 5 favorite songs?
   5. Helter Skelter
 
 Q4: Your travel destinations that you look forward to?
-* _Jeremy_: We're hoping to go to London and Paris in 2021.  I've been to Paris and can't wait to go back, and haven't been to London.  That should be awesome!
+* _Jeremy_: We're hoping to go to London and Paris in 2021.  I've been to Paris and can't wait to go back, and haven't been to London.  That should be awesome!  When I travel I do like to sample local food.  In fact, that's one of my favorite parts of traveling... trying food.  That being said, even in the days of the internet it can be difficult finding a good local place to eat.
