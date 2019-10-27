@@ -54,6 +54,10 @@ Q4: Do you have any pets? Species/Name/Details please. [Murray](images/Murray.jp
 
 * _Prakash_: No, sorry. I think I may not have the empathy and patience to take care of another being.  
 
+Q5 rebuttal: Did you stay anywhere long enough to know that you liked it?
+
+* _Prakash_: Hmmm, I visited Australia, USA (St. Lawrence seaway and the great lakes, as far as Duluth, MN, Wilmington, SC), we drydocked in Sazebo, Japan for 30 days, but really never enjoyed the life of a sailor. Now that I am a US citizen, I love the USA, I want to be in CA, but homes are too expensive, if I had to have a holiday, it would be to CA and San Jose area where tech is happening.
+
 ## Submitting Your Work
 Once I have merged your pull request into my repo, please submit your repo along with a screenshot of your pull request in Blackboard.
 
